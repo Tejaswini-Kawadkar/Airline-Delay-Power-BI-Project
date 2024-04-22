@@ -20,7 +20,7 @@ The objective of this project is to identify the factors that contribute to avoi
 4. The next chart shows the total flights by weekdays. Airline WN had the highest number of flights. HA had the least.
 <br>
 1. The delay index is a metric used to quantify the overall level of delays experienced by flights at an airport, airline, or in a specific region. The delay index takes into account the frequency, duration, and magnitude of delays to give a comprehensive assessment of the delay situation.
-2. The highest was 0.70 of WN Airline.
+<br>2. The highest was 0.70 of WN Airline.
 
 ### Dashboard 2:
 1. The first chart on our dashboard is the sum of delays of flights by the airlines.
