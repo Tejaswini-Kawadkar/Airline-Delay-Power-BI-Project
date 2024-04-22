@@ -18,7 +18,7 @@ The objective of this project is to identify the factors that contribute to avoi
 2. There were a total of 18 airlines and the delay index was 0.45.
 3. The first chart on our dashboard is the area chart for number of delayed flights and number of on time flights according to the airline which will help to determine which airline has the highest and lowest number of flight delays. We plotted airlines on the x-axis and the measures for number of delays and on time departures on the y-axis.
 4. The next chart shows the total flights by weekdays. Airline WN had the highest number of flights. HA had the least.
-<br>
+
 #### Delay Metric:
 1. The delay index is a metric used to quantify the overall level of delays experienced by flights at an airport, airline, or in a specific region.
 2. The delay index takes into account the frequency, duration, and magnitude of delays to give a comprehensive assessment of the delay situation.
